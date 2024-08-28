@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+# Daniel Proano First CS 193 Homework
+
+My favorite things about CS 193
+- The TA's are awesome
+- The class is lightweight (only one day a week is sick!)
+- The homework has actually been very informative
+- I got to set up my first ever website!
+
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
